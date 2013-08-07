@@ -1,4 +1,4 @@
-print("Mnemonics for multiplication timetables")
+print("Mnemonics for multiplication")
 print()
 for i in range(1, 10):
         print(i,"times x")
